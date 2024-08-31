@@ -27,4 +27,6 @@ https://code.visualstudio.com/
 
 - [x] Adicionar seu projeto na nuvem (https://github.com)
 - [x] Realizar alterações locais e subir para a nuvem
-- [x] Simular outras pessoas alterando o repositório remoto e seu repositório entao 
+- [x] Simular outras pessoas alterando o repositório remoto e seu repositório entao
+tem que ser atualizado com as ultimas modificações
+- [x] Simular conflito em atenção no mesmo arquivo 
