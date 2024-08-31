@@ -20,4 +20,11 @@ https://code.visualstudio.com/
 - [x] Visualizar o estado dos seus objetos que estão no seu diretório de trabalho
 - [x] Visualizar o conteúdo dos seus objetos em um determinado ponto na linha do tempo 
 - [x] Criar uma nova versão do seu projeto, mas sem afetar os arquivos dessa linha do tempo principal.  
-- [] Realizar alterações nessa nova versão.
+- [x] Realizar alterações nessa nova versão.
+
+- [x] Você adiciona as novas funcionalidades ao seu projeto em produção.
+- [x] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
+
+- [x] Adicionar seu projeto na nuvem (https://github.com)
+- [x] Realizar alterações locais e subir para a nuvem
+- [x] Simular outras pessoas alterando o repositório remoto e seu repositório entao 
